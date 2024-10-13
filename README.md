@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 👨‍💻 All of my projects are available at [https://rohanshubanodha.vercel.app/](Visit My Portfolio)
+- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://rohanshubanodha.vercel.app/)
 
 - 💬 Ask me about **NodeJS, React, Docker, Python, Deep Learning**
 
 - 📫 How to reach me **banodharohanshu@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/deziazvyp/image/upload/v1721924966/pdfs/Resume-College.pdf](Resume)
+- 📄 Know about my experiences [My Resume](https://res.cloudinary.com/deziazvyp/image/upload/v1721924966/pdfs/Resume-College.pdf)
 
 - ⚡ Fun fact **A Commit a Day Keeps 🪲 Away**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Rohanshu%20Banodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanshu banodha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rohanshu Banodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanshu banodha" height="30" width="40" /></a>
 <a href="https://instagram.com/Rohanshu_Banodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanshu_banodha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohanshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohanshu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/RohanshuBanodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanshubanodha" height="30" width="40" /></a>
