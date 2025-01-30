@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanshu-33" alt="rohanshu-33" /></a> </p>
 
-- 🔭 I’m currently building **ParkEZ - Parking made Easy**
+- 🔭 I’m currently building **ItemHive - Rent Your Needs**
 
 - 🌱 I’m currently learning **.Net Core**
 
 - 👨‍💻 All of my projects are available at [Visit My Portfolio](https://rohanshubanodha.vercel.app/)
 
-- 💬 Ask me about **NodeJS, React, Docker, Python, Deep Learning**
+- 💬 Ask me about **NodeJS, React, Docker, Python, Deep Learning, C#**
 
 - 📫 How to reach me **banodharohanshu@gmail.com**
 
